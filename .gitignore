@@ -1,0 +1,7 @@
+samples/
+.venv/
+samples_digest.txt
+poetry.lock
+__pycache__
+.pytest_cache
+.env
